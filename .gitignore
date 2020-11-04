@@ -1,3 +1,5 @@
 .env
 __pycache__
 .vscode
+env_test.py
+chi_api_env
